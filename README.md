@@ -6,8 +6,8 @@
    ```
    npm install express sqlite3 body-parser
    ```
-   - `express` : 노드 익스프레스
-   - `sqlite3` : SQLite DB
-   - `body-parser` 
+   - `express` : 익스프레스. `Node.js` 기반의 웹 프레임워크
+   - `sqlite3` : `SQLite` 데이터베이스
+   - `body-parser` : `HTTP` 요청(`Request`) 본문(`Body`)을 해석(`Parsing`)
 
 
