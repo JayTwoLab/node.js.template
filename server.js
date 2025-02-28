@@ -1,6 +1,6 @@
 
 
-// npm install express mysql2 body-parser
+// npm install express sqlite3 body-parser
 const express = require('express');
 const sqlite3 = require('sqlite3').verbose();
 const bodyParser = require('body-parser');
