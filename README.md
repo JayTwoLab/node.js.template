@@ -1,13 +1,12 @@
 # node.js.template
-- 노드 템플릿
+- Node Template Project
 
-## 모듈 설치 
-- 다음과 같은 명령으로 모듈을 사전 설치한다.
+## How to install module 
+- Pre-install the module with the following command.
    ```
    npm install express sqlite3 body-parser
    ```
-   - `express` : 익스프레스. `Node.js` 기반의 웹 프레임워크
-   - `sqlite3` : `SQLite` 데이터베이스
-   - `body-parser` : `HTTP` 요청(`Request`) 본문(`Body`)을 해석(`Parsing`)
-
+   - `express` : web framework based on `Node.js`.
+   - `sqlite3` : `SQLite` database
+   - `body-parser` : 'HTTP' request ('Request') body ('Body') is interpreted ('Parsing')
 
